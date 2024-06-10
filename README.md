@@ -13,7 +13,7 @@ Each installment of the Level Up series offers at least 15 bite-sized opportunit
 
 Jess Pomfret 
                             
-
+Database Platform Architect and Microsoft MVP
 
                             
 
