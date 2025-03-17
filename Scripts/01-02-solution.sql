@@ -3,7 +3,8 @@
 select e.employeeId, s.salesId
  FROM employee e
  LEFT JOIN sales s ON s.employeeId=e.employeeId
-WHERE e.title == 'Sales Person' AND s.salesId is NULL ;
+WHERE e.title == 'Sales Person' AND s.salesId is NULL;
+-- kurla check that saisId IS NULL
 
 -- select * from sales order by employeeId;
 
